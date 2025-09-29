@@ -2,3 +2,4 @@ https://platform.openai.com/chat/edit?models=gpt-5
 https://aistudio.google.com/app/prompts/new_chat
 https://www.notion.so/onboarding
 https://grupoalura.notion.site/Plano-de-Desenvolvimento-Individual-Alunos-f95b10f7081e442f8b6f89cc0e1adcba
+https://marketplace.visualstudio.com/vscode
