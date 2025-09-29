@@ -3,3 +3,4 @@ https://aistudio.google.com/app/prompts/new_chat
 https://www.notion.so/onboarding
 https://grupoalura.notion.site/Plano-de-Desenvolvimento-Individual-Alunos-f95b10f7081e442f8b6f89cc0e1adcba
 https://marketplace.visualstudio.com/vscode
+https://www.ted.com/talks/leeann_renninger_the_secret_to_giving_great_feedback
