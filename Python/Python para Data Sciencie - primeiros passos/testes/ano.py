@@ -1,1 +1,0 @@
-print(28, 'fevereiro', 2003)

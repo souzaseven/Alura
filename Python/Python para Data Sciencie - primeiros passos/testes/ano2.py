@@ -1,1 +1,0 @@
-print('Ano atual:',2023)

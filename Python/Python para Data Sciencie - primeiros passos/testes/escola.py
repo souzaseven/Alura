@@ -1,1 +1,0 @@
-print('Escola de Dados da Alura!')
